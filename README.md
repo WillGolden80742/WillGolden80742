@@ -47,26 +47,6 @@
 
 ---
 
-## 📈 Contribuições Dinâmicas
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WillGolden80742&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=WillGolden80742&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📫 Conecte-se Comigo
 
 <div align="center">
@@ -77,55 +57,7 @@
 
 </div>
 
----
 
-## 📊 Estatísticas Detalhadas
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-**🌟 GitHub Stats**
-- 📊 **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/WillGolden80742?affiliations=OWNER%2CCOLLABORATOR&style=social)
-- 🔄 **Total Commits:** ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=commits&query=%24.total_commits&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWillGolden80742%2Fevents)
-- 📂 **Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWillGolden80742)
-- ❓ **Total Issues:** ![Issues](https://img.shields.io/github/issues/WillGolden80742/WillGolden80742)
-
-</td>
-<td>
-
-**⚡ Current Status**
-- 🚀 Explorando novas tecnologias
-- 💡 Sempre aprendendo algo novo
-- 🔥 Focado no desenvolvimento
-- 🌱 Crescendo a cada commit
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 Profile Insights
-
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillGolden80742&theme=tokyonight" alt="Profile Summary"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WillGolden80742&theme=tokyonight" alt="Most Commit Language" width="350"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WillGolden80742&theme=tokyonight&utcOffset=8" alt="Productive Time" width="350"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💫 "Code is poetry in motion" 💫
 
 *Transformando ideias em realidade, um commit por vez* ✨
 
