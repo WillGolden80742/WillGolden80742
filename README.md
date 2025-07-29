@@ -59,6 +59,4 @@
 
 
 
-*Transformando ideias em realidade, um commit por vez* ✨
-
 </div>
