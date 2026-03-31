@@ -6,28 +6,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=WillGolden80742&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
-
-</div>
-
----
-
-## 💻 Linguagens Mais Utilizadas
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillGolden80742&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="200"/>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
